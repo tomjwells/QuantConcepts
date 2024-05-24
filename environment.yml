@@ -1,0 +1,27 @@
+name: qfc
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - python=3.10.12
+  - ipykernel=6.29.3
+  - keras=2.11.0
+  - keras-preprocessing=1.1.2
+  - matplotlib=3.8.4
+  - numpy=1.26.4
+  - pandas=2.2.2
+  - tensorboard=2.11.2
+  - tensorboard-data-server=0.6.1
+  - tensorboard-plugin-wit=1.8.1
+  - tensorflow=2.11.1
+  - tensorflow-base=2.11.1
+  - tensorflow-estimator=2.11.1
+  - nvidia::cuda
+  - scikit-learn=1.4.2
+  - gym=0.26.1
+  - gym-notices=0.0.8
+  - pip=23.2.1
+  - pip:
+      - scikeras==0.11.0
+prefix: /root/miniconda3/envs/qfc
