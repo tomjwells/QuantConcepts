@@ -5,6 +5,7 @@ channels:
   - nvidia
 dependencies:
   - python=3.10.12
+  - pygame=2.5.2
   - ipykernel=6.29.3
   - keras=2.11.0
   - keras-preprocessing=1.1.2
