@@ -4,6 +4,7 @@ channels:
   - conda-forge
   - nvidia
 dependencies:
+  - box2d-py=2.3.8
   - python=3.10.12
   - pygame=2.5.2
   - ipykernel=6.29.3
@@ -11,6 +12,7 @@ dependencies:
   - keras-preprocessing=1.1.2
   - matplotlib=3.8.4
   - numpy=1.26.4
+  - notebook=7.2.0
   - pandas=2.2.2
   - tensorboard=2.11.2
   - tensorboard-data-server=0.6.1
