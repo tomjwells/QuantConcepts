@@ -90,7 +90,7 @@ class OandaEnv:
     self.accuracy = 0
     self.performance = 1
     # self.performance = 0
-    self.bar = self.lags
+    self.bar = int(self.lags)
     state = self._get_state()
     return state
 
@@ -107,7 +107,7 @@ class OandaEnv:
     self.bar += 1
     self.accuracy = self.treward / (self.bar - self.lags)
     self.performance *= math.exp(reward_2)
-    if self.bar >= len(self.data):
+    if self.bar >= len(self.data_):
       done = True
     elif reward_1 == 1:
       done = False
