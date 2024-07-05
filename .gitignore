@@ -1,5 +1,6 @@
 **.cfg
 vastai-steps.sh
+oanda*.csv
 
 *.keras
 *.h5

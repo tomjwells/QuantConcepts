@@ -7,36 +7,39 @@ dependencies:
   - box2d-py=2.3.8
   - python=3.10.12
   - pygame=2.5.2
-  - ipykernel=6.29.3
+  - ipykernel=6.29.4
   - keras-preprocessing=1.1.2
   - matplotlib=3.8.4
   - numpy=1.26.4
-  - notebook=7.2.0
+  - notebook=7.2.1
   - pandas=2.2.2
   - keras=3.3.3
   - tensorflow=2.16
   - tensorflow-base=2.16
   - tensorflow-estimator=2.16
-  - jax=0.4.27
-  - nvidia::cuda
-  - cudnn
+  # - nvidia::cuda
+  # - cudnn
   # Setting CUDA versions manually gets around conda versioning bug: https://github.com/google-deepmind/alphafold/issues/945#issuecomment-2153760020
-  - cuda=12.2.2
-  - cuda-tools=12.2.2
-  - cuda-toolkit=12.2.2
-  - cuda-version=12.2
-  - cuda-command-line-tools=12.2.2
-  - cuda-compiler=12.2.2
-  - cuda-runtime=12.2.2
+  # - cuda=12.2.2
+  # - cuda-tools=12.2.2
+  # - cuda-toolkit=12.2.2
+  # - cuda-version=12.2
+  # - cuda-command-line-tools=12.2.2
+  # - cuda-compiler=12.2.2
+  # - cuda-runtime=12.2.2
   - scikit-learn=1.4.2
   - statsmodels=0.14.2
   - gym=0.26.1
   - gym-notices=0.0.8
+  - stable-baselines3==2.3.2
+  - torch==2.3.1
+  - QuantStats==0.0.62
   - ipympl=0.9.4
   - pip=23.2.1
   - pip:
       - scikeras==0.11.0
       - cufflinks==0.17.3
       - git+https://github.com/yhilpisch/tpqoa
-      - tensorboard-data-server==0.7.2
+      # - tensorboard-data-server==0.7.2
+      - gym-anytrading==2.0.0
 prefix: /root/miniconda3/envs/qfc
