@@ -2,6 +2,8 @@
 vastai-steps.sh
 oanda*.csv
 
+7._Modern_Deep_Reinforcement_Learning/
+
 *.keras
 *.h5
 

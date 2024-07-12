@@ -3,7 +3,9 @@ channels:
   - defaults
   - conda-forge
   - nvidia
+  - pytorch
 dependencies:
+  - arch-py=7.0.0
   - box2d-py=2.3.8
   - python=3.10.12
   - pygame=2.5.2
@@ -13,7 +15,7 @@ dependencies:
   - numpy=1.26.4
   - notebook=7.2.1
   - pandas=2.2.2
-  - keras=3.3.3
+  - keras=3.4.1
   - tensorflow=2.16
   - tensorflow-base=2.16
   - tensorflow-estimator=2.16
@@ -32,7 +34,7 @@ dependencies:
   - gym=0.26.1
   - gym-notices=0.0.8
   - stable-baselines3==2.3.2
-  - torch==2.3.1
+  - pytorch==2.3.1
   - QuantStats==0.0.62
   - ipympl=0.9.4
   - pip=23.2.1
