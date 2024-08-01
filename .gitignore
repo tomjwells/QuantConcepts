@@ -3,9 +3,13 @@ vastai-steps.sh
 oanda*.csv
 
 7._Modern_Deep_Reinforcement_Learning/
+2.\ Timeseries/4.\ Kalman\ Filters.ipynb
+2.\ Timeseries/4.\ Kalman\ Filters.ipynb
+
 
 *.keras
 *.h5
+*.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

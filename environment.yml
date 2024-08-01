@@ -35,6 +35,7 @@ dependencies:
   - gym-notices=0.0.8
   - stable-baselines3==2.3.2
   - pytorch==2.3.1
+  - torchvision==0.18.0
   - QuantStats==0.0.62
   - ipympl=0.9.4
   - pip=23.2.1
@@ -44,4 +45,6 @@ dependencies:
       - git+https://github.com/yhilpisch/tpqoa
       # - tensorboard-data-server==0.7.2
       - gym-anytrading==2.0.0
+      - aleatory==0.4.0
+      - latex
 prefix: /root/miniconda3/envs/qfc
