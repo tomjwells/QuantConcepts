@@ -30,6 +30,7 @@ dependencies:
   # - cuda-compiler=12.2.2
   # - cuda-runtime=12.2.2
   - scikit-learn=1.4.2
+  - scikit-optimize=0.10.2
   - statsmodels=0.14.2
   - gym=0.26.1
   - gym-notices=0.0.8
@@ -38,6 +39,8 @@ dependencies:
   - torchvision==0.18.0
   - QuantStats==0.0.62
   - ipympl=0.9.4
+  - xgboost=2.0.3
+  - jax=0.4.31
   - pip=23.2.1
   - pip:
       - scikeras==0.11.0
@@ -46,5 +49,6 @@ dependencies:
       # - tensorboard-data-server==0.7.2
       - gym-anytrading==2.0.0
       - aleatory==0.4.0
+      - category-encoders==2.6.3
       - latex
 prefix: /root/miniconda3/envs/qfc

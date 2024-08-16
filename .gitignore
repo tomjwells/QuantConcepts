@@ -4,8 +4,12 @@ oanda*.csv
 
 7.\ Modern\ Deep\ Reinforcement\ Learning/
 2.\ Timeseries/4.\ Kalman\ Filters.ipynb
-2.\ Timeseries/4.\ Kalman\ Filters.ipynb
+4.\ Deep\ Neural\ Networks/4.\ JAX.ipynb
+9.\ Basic\ Algorithmic\ Trading/
 
+data/test_mnist
+data/train_mnist
+data/bank-additional-full.csv
 
 *.keras
 *.h5
