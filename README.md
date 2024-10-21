@@ -10,7 +10,6 @@ In this repository, I keep notes related to my study of topics related to quanti
 - [Convolutional & Recurrent Neural Networks](#convolutional-recurrent-neural-networks)
 - [Deep Reinforcement Learning](#deep-reinforcement-learning)
 - [Machine Learning](#machine-learning)
-- [Basic Algorithmic Trading](#basic-algorithmic-trading)
 
 ## Regression
 
