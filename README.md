@@ -16,7 +16,7 @@ In this repository, I keep notes related to my study of topics related to quanti
 ## Regression
 
 1. [Ordinary Least Squares (OLS)](1.%20Regression/1.%20OLS.ipynb)
-2. [Generalized Linear Models (GLMs)](<1.%20Regression/Generalized%20Linear%20Models%20(GLMs).ipynb>)
+2. [Generalized Linear Models (GLMs)](1.%20Regression/2.%20Generalized%20Linear%20Models%20(GLMs).ipynb)
 3. [Optimization](1.%20Regression/Optimization.ipynb)
 4. [Ridge Regression](1.%20Regression/Ridge%20Regression.ipynb)
 
