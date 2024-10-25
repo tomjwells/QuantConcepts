@@ -18,14 +18,14 @@ In this repository, I keep notes related to my study of topics related to quanti
 3. [Optimization](1.%20Regression/3.%20Optimization.ipynb)
 4. [Ridge & Lasso Regression](1.%20Regression/4.%20Ridge%20&%20Lasso%20Regression.ipynb)
 5. [Logistic Regression & Multinomial Logistic Regression](1.%20Regression/5.%20Logistic%20Regression%20&%20Multinomial%20Logistic%20Regression.ipynb)
-6. [Generalized Linear Models (GLMs)](1.%20Regression/2.%20Generalized%20Linear%20Models%20(GLMs).ipynb)
+6. [Generalized Linear Models (GLMs)](1.%20Regression/6.%20Generalized%20Linear%20Models%20(GLMs).ipynb)
 
 ## Timeseries
 
 1. [Stationarity](2.%20Timeseries/1.%20Stationarity.ipynb)
 2. [ARIMA & SARIMA](2.%20Timeseries/2.%20ARIMA%20&%20SARIMA.ipynb)
 3. [ARCH & GARCH](2.%20Timeseries/3.%20ARCH%20%26%20GARCH.ipynb)
-4. [MCMC for Parameter Estimation in a Regime-Switching Gaussian Mixture Model](4.%20MCMC%20for%20Parameter%20Estimation%20in%20a%20Regime-Switching%20Gaussian%20Mixture%20Model)
+4. [MCMC for Parameter Estimation in a Regime-Switching Gaussian Mixture Model](2.%20Timeseries/4.%20MCMC%20for%20Parameter%20Estimation%20in%20a%20Regime-Switching%20Gaussian%20Mixture%20Model.ipynb)
 <!-- 4. [Kalman Filters](2.%20Timeseries/4.%20Kalman%20Filters.ipynb) -->
 
 ## Stochastic Processes
@@ -36,9 +36,9 @@ In this repository, I keep notes related to my study of topics related to quanti
 ## Deep Neural Networks
 
 1. [MLP Classifier from Scratch in JAX](4.%20Deep%20Neural%20Networks/1.%20MLP%20Classifier%20from%20Scratch%20in%20JAX.ipynb)
-1. [MLP Classifier in Numpy](4.%20Deep%20Neural%20Networks/1.1%20MLP%20Classifier%20in%20Numpy.ipynb)
-2. [Number Recognition with Keras](4.%20Deep%20Neural%20Networks/2.%20Number%20Recognition%20with%20Keras.ipynb)
-3. [Regularization Techniques](4.%20Deep%20Neural%20Networks/3.%20Regularization%20Techniques.ipynb)
+2. [MLP Classifier in Numpy](4.%20Deep%20Neural%20Networks/1.1%20MLP%20Classifier%20in%20Numpy.ipynb)
+3. [Number Recognition with Keras](4.%20Deep%20Neural%20Networks/2.%20Number%20Recognition%20with%20Keras.ipynb)
+4. [Regularization Techniques](4.%20Deep%20Neural%20Networks/3.%20Regularization%20Techniques.ipynb)
 
 ## Convolutional & Recurrent Neural Networks
 
