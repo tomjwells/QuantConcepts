@@ -58,7 +58,7 @@ In this repository, I keep notes related to my study of topics related to quanti
 
 - [Clustering, Lloyd's Algorithm & Expectation-Maximization](8.%20Machine%20Learning/Clustering,%20Lloyd's%20Algorithm%20&%20Expectation-Maximization)
     - [k-Means Clustering](8.%20Machine%20Learning/Clustering,%20Lloyd's%20Algorithm%20&%20Expectation-Maximization/k-Means%20Clustering.ipynb)
-    - [Gaussian Mixure Models](8.%20Machine%20Learning/Clustering,%20Lloyd's%20Algorithm%20&%20Expectation-Maximization/Gaussian%20Mixure%20Models.ipynb)
+    - [Gaussian Mixture Models](8.%20Machine%20Learning/Clustering,%20Lloyd's%20Algorithm%20&%20Expectation-Maximization/Gaussian%20Mixture%20Models.ipynb)
 - [Principal Component Analysis (PCA)](8.%20Machine%20Learning/Principal%20Component%20Analysis%20(PCA).ipynb)
 - [XGBoost](8.%20Machine%20Learning/XGBoost.ipynb)
 - [JAX CPU/GPU Performance Comparison](8.%20Machine%20Learning/JAX%20CPU-GPU%20Performance%20Comparison.ipynb)
