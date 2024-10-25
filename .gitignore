@@ -1,11 +1,13 @@
 **.cfg
 vastai-steps.sh
 oanda*.csv
+dl.py
 
 7.\ Modern\ Deep\ Reinforcement\ Learning/
 2.\ Timeseries/4.\ Kalman\ Filters.ipynb
 4.\ Deep\ Neural\ Networks/4.\ JAX.ipynb
-9.\ Basic\ Algorithmic\ Trading/
+8. Machine Learning/Mathematical ML.ipynb
+9.\ Sentiment\ Analysis
 
 data/test_mnist
 data/train_mnist
